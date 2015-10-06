@@ -1,0 +1,21 @@
+{
+  "name": "2048",
+  "version": "0.0.0",
+  "homepage": "https://github.com/domTombola/2048",
+  "description": "simple 2048 game",
+  "authors": [
+    "dom waterson"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-ui-router": "~0.2.15"
+  }
+}
